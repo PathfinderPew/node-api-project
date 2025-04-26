@@ -1,5 +1,5 @@
 const getName = (req, res) => {
-    res.send('John Doe'); // Or any name you want
+    res.send('Brando Calrissian');
 };
 
 module.exports = { getName };
